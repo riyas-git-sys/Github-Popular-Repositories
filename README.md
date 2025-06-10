@@ -1,6 +1,6 @@
 In this project, let's build a **Github Popular Repos** by applying the concepts we have learned till now.
 
-## Click Here For [Demo}(https://gitpopreporiyas.ccbp.tech/)
+## Click Here For [Demo](https://gitpopreporiyas.ccbp.tech/)
 
 ### Refer to the images below:
 
